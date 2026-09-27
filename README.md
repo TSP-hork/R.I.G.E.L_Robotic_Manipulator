@@ -1,10 +1,20 @@
-# Robotic_Manipulator_HSPS
+# RIGEL — Robotic Interchangeable General-purpose Extensible Linkage
 
-This repository is dedicated to the development of a High-Performance, Open-Source Robotic Manipulator based on a Hot-Swappable Part System (HSPS).
+This repository is dedicated to the development of **RIGEL**, a high-performance, open-source modular robotic manipulator designed around an interchangeable and extensible architecture.
 
-## Hot... what?
+The goal of RIGEL is to create a versatile robotic platform where mechanical, electronic, and functional modules can be reconfigured, replaced, and extended without redesigning the entire system.
 
-Yes, "Hot-Swappable" sounds strange for a robotic arm. Controlling a robot like this usually requires deep programming skills and a complex system understanding, making most designs rigid and hard to modify. My goal is to make it easier. And no, this is not a toy for grabbing cubes.
+## Modular... what?
+
+"Modular robotic platform" might sound like a fancy way of saying "a robot made from a bunch of parts." And, well... that's basically the idea.
+
+Building and controlling a robotic arm usually requires deep programming skills and a complex understanding of the entire system, making most designs rigid and difficult to modify.
+
+**RIGEL is my attempt to make that easier.**
+
+The idea is to build the robot from interchangeable and extensible modules, so parts can be replaced, added, or reconfigured without redesigning the entire system.
+
+And no, this is not a toy for grabbing cubes.
 
 ## What does "not a toy" mean?
 
