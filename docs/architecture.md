@@ -1,6 +1,6 @@
 ## Architecture.md
 
-# Architecture of the HSPS Robotic Manipulator
+# Architecture of the RIGEL Robotic Manipulator
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@
 
 ## 1. Overview
 
-The HSPS (Hot-Swappable Part System) Robotic Manipulator is a fast, precise,
+The RIGEL Robotic Manipulator is a fast, precise,
 and affordable robotic arm designed for simple assembly, easy operation,
 and tool-agnostic deployment. It is built from four electronic subsystems:
 an Input Power Board, a Motherboard, hot-swappable Power Blades, and a
@@ -54,7 +54,7 @@ of itself.
 
 ## 2. Core Concept
 
-The central idea behind HSPS is the separation of concerns:
+The central idea behind RIGEL is the separation of concerns:
 
 - **The Robot** is a precision positioning tool. It moves a point in space
   from A to B. It is a black box with a simple API.

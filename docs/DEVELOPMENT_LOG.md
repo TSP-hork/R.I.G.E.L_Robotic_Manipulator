@@ -765,3 +765,22 @@ And what? Have a... Good... What? <Night!>
 Trying out a quick style update for the dev log, as I didn't want to create a whole new file with a long title just for a short text.
 
 <Have a good night> I'll order everything once I get paid!... though it'll take about a month to get here... yee....
+
+# 2026-10-08: S*t happens
+
+## Milestone
+*   **CNC:** Add architecture of cnc for esp.
+
+## Current Status
+-   **CAD / CNC:** All on my board and i add all files for start make it alive.
+
+## Next Steps
+-   **Firmware:** Test it and finish the entire upper control loop.
+-   **Assembling:** Assemble the final axis.
+-   **CNC Firmware:** ~~Order the remaining parts for the CNC system and~~ write the control/communication code to interface with the robot.
+
+## Comment
+
+No comments so many GOAT live events with GOAT trash events on every week, mb i start be bad for this... but i dont stop disgrace yourself!
+
+<gooood night have guys!> 
